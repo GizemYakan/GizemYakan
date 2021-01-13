@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### :)
 
-<img src = "gizem.gif" width="100">
+<img src = "gizem.gif" width="150">
 <!--
 **GizemYakan/GizemYakan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
