@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### :)
+
 
 <img src = "gizem.gif" width="150">
 <!--
