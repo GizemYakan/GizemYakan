@@ -13,10 +13,11 @@ class Bio extends SoftwareDeveloper {
   location = 'Ankara, CE';
 }
 
+
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+  languages  = ['C#', 'JavaScript', 'CSS', 'HTML','Java'];
+  databases  = ['MsSQL', 'MySQL'];
+  frameworks = ['.Net Core', '.Net Framework', 'Entity Framework', 'Bootstrap', 'jQuery','Vue.js'];
 }
 ```
 ----
