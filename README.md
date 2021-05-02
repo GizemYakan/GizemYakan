@@ -4,10 +4,10 @@
 </p>
 
 ```js
-import SoftwareDeveloper from 'galipyildiz';
+import SoftwareDeveloper from 'gizemyakan';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Galip Yıldız';
+  name     = 'Gizem Yakan';
   title    = 'Software Specialist';
   company  = 'From Home';
   location = 'Ankara, CE';
