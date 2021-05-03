@@ -10,7 +10,7 @@ class Bio extends SoftwareDeveloper {
   name     = 'Gizem Yakan';
   title    = 'Software Specialist';
   company  = 'From Home';
-  location = 'Ankara, CE';
+  location = 'Ankara, TR';
 }
 
 
