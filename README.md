@@ -16,8 +16,8 @@ class Bio extends SoftwareDeveloper {
 
 class Skills extends SoftwareDeveloper {
   languages  = ['C#', 'JavaScript', 'CSS', 'HTML','Java'];
-  databases  = ['MsSQL', 'MySQL'];
-  frameworks = ['.Net Core', '.Net Framework', 'Entity Framework', 'Bootstrap', 'jQuery','Vue.js'];
+  databases  = ['MsSQL', 'MySQL','PostgreSQL'];
+  frameworks = ['.Net Core', '.Net Framework', 'Entity Framework', 'Bootstrap', 'jQuery','Vue.js','React.js'];
 }
 ```
 ----
