@@ -6,7 +6,7 @@
 ```js
 import SoftwareDeveloper from 'gizemyakan';
 
-class Bio extends SoftwareDeveloper {
+class Bio extends FrontendDeveloper {
   name     = 'Gizem Yakan';
   title    = 'Frontend Developer';
   company  = 'From Home';
@@ -14,7 +14,7 @@ class Bio extends SoftwareDeveloper {
 }
 
 
-class Skills extends SoftwareDeveloper {
+class Skills extends FrontendDeveloper {
   languages  = ['C#', 'JavaScript', 'CSS', 'HTML','Java'];
   databases  = ['MsSQL', 'MySQL','PostgreSQL','SQLite'];
   frameworks = ['.Net Core', '.Net Framework', 'Entity Framework', 'Bootstrap', 'jQuery','Vue.js','React.js'];
